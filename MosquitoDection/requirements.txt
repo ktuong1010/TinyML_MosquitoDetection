@@ -1,0 +1,10 @@
+Raspberry Pi Configuration:
+
+- Python environment (required libraries):
+
+  For oled-display:
+  - adafruit-python-shell
+  - adafruit-circuitpython-ssd1306
+
+  For opening serial ports:
+  - pyserial
